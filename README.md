@@ -98,7 +98,7 @@ This project makes databases more accessible by converting natural language to S
 ## 📫 Let's Connect!
 - **Email**: vaghasiyajagrut380@gmail.com
 - **GitHub**: [@jagrut70](https://github.com/jagrut70)
-- **LinkedIn**: [Jagrut Vaghasiya](https://linkedin.com/in/jagrutvaghasiya)
+- **LinkedIn**: [Jagrut Vaghasiya](https://www.linkedin.com/in/jagrut-vaghasiya/)
 
 ## 🎉 Fun Facts About Me
 - 🎯 I'm obsessed with **AI/ML** and finding new ways to apply it
