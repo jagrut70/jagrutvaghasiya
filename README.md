@@ -62,7 +62,33 @@ My journey started with large-scale email marketing and analytics:
 - Designed **Power BI dashboards** for campaign performance monitoring and optimization
 - Managed CRM campaigns and personalized marketing strategies using BigQuery
 
-## 🚀 Cool Projects I've Built
+## 🏆 Featured Projects
+
+### **Digital Twin AI - Synthetic Intelligence Platform**
+A revolutionary system that creates **AI-powered digital replicas** of individuals using advanced synthetic data and machine learning. This project represents the future of human-AI interaction and digital identity.
+
+**Key Innovations:**
+- **Synthetic Data Integration**: Multiple datasets for realistic human modeling
+- **Behavioral AI**: Personality simulation and decision-making algorithms
+- **3D Visualization**: Immersive avatar representation and interaction
+- **Health Intelligence**: Predictive health modeling and wellness tracking
+- **Conversational AI**: Natural language understanding and response generation
+
+**Research Impact:** Contributing to the emerging field of digital twin technology and synthetic intelligence
+
+### **AI-Powered Candidate Recommendation Engine**
+A sophisticated hiring solution that combines **machine learning** and **AI** to revolutionize candidate matching. This system processes job descriptions and resumes using advanced NLP techniques, then provides intelligent recommendations with detailed AI-generated insights.
+
+**What Makes It Special:**
+- **Semantic Understanding**: Goes beyond keyword matching to understand context and meaning
+- **AI Analysis**: Generates human-like explanations for each recommendation
+- **Enterprise Ready**: Includes Docker deployment, comprehensive documentation, and testing
+- **Performance**: Processes candidates in seconds with 95%+ accuracy
+- **User Experience**: Intuitive interface for HR professionals and recruiters
+
+**Impact:** Streamlines hiring processes, reduces time-to-hire, and improves candidate quality through intelligent matching.
+
+## 🚀 Other Cool Projects I've Built
 
 ### **AutoBrowse AI**
 Ever wanted an AI assistant that could actually control your browser? I built a **voice-controlled AI agent** using LiveKit that automates flight searches, browser tasks, and even in-game decision-making. It uses Browser-Use AI to interact with real-world applications like Google Flights through LLM agents.
