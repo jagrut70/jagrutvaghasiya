@@ -51,7 +51,6 @@ Adept at optimizing business operations and decision-making through interactive 
 ### **WeTechForU | Allen, TX** | *Aug 2024 – Present*
 **Data Analyst / Data Engineer**
 
-- Collaborated with stakeholders from **5+ health insurance providers** to gather requirements for analytics solutions
 - **Architected and trained CNN and Transformer-based models** in TensorFlow/PyTorch, improving predictive accuracy by **20%**
 - **Engineered scalable ETL pipelines** using PySpark on Microsoft Fabric to process **10TB+ of nested JSON data daily**
 - Created **Power BI dashboards** that reduced insurance claim cycle time by **25%** through better operational tracking
@@ -60,7 +59,6 @@ Adept at optimizing business operations and decision-making through interactive 
 ### **WeTechForU | Allen, TX** | *Apr 2021 – May 2023*
 **Data Operation Analyst**
 
-- Executed large-scale email marketing initiatives at **The Home Depot**, targeting **50M+ weekly recipients**
 - Served as a core member of the **CRM team**, focused on designing impactful, results-oriented email marketing campaigns
 - Gathered requirements from marketing stakeholders and executed personalized campaign management via **BigQuery**
 - Built **Python A/B testing framework**, boosting email conversion rates by **20%** and adding **$2.1M in revenue**
