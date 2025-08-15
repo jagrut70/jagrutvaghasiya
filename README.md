@@ -1,131 +1,118 @@
 # 👋 Hi there, I'm Jagrut Vaghasiya!
 
-## 🚀 Professional Summary
-**DATA ENGINEER | AI ENGINEER | DATA SCIENTIST**
+## 🚀 About Me
+I'm a passionate **Data Engineer, AI Engineer, and Data Scientist** who loves turning complex data into actionable insights that drive real business impact. With **3+ years of experience** working with Fortune 500 healthcare and retail clients, I've learned that the best solutions come from combining technical expertise with a deep understanding of business needs.
 
-Results-driven Data Analyst and Marketing Operations professional with **3+ years of experience** delivering data-driven solutions for **Fortune 500 healthcare and retail clients**. Proven expertise in automating complex workflows, stakeholder management, requirements gathering, campaign management, building predictive models, and developing scalable ETL pipelines using Python, SQL, and modern data tools.
+I believe in the power of **AI-driven analytics** to solve real-world problems and create meaningful impact. Whether it's building scalable ETL pipelines, training machine learning models, or creating interactive dashboards, I'm always excited to tackle new challenges and learn innovative approaches.
 
-Adept at optimizing business operations and decision-making through interactive visualizations and **AI-driven analytics**. Demonstrated ability to bridge technical solutions with business goals, reduce operational bottlenecks, and enhance data integrity.
+## 💼 What I Do
+I specialize in **automating complex workflows**, **building predictive models**, and **developing scalable data solutions** that help organizations make better decisions. My approach combines technical expertise with creative problem-solving to deliver exceptional results that bridge the gap between data and business value.
 
-## 🎓 Education
-- **Master of Science, Information Technology and Management** | The University of Texas at Dallas, Texas | **GPA: 3.42** | *May 2025*
-- **Bachelor of Engineering, Computer Engineering** | Gujarat Technological University, India | **GPA: 3.56** | *May 2023*
+## 🎓 My Journey
+- **Currently pursuing** Master of Science in Information Technology and Management at **The University of Texas at Dallas** (GPA: 3.42) - graduating May 2025
+- **Completed** Bachelor of Engineering in Computer Engineering from **Gujarat Technological University, India** (GPA: 3.56)
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Technologies
 
-### **Cloud Platforms**
-- **Google Cloud Platform** - BigQuery, Cloud Storage
-- **Microsoft Fabric** - Data processing and analytics
-
-### **Databases & ETL**
+### **Cloud & Data Platforms**
+- **Google Cloud Platform** - BigQuery, Cloud Storage for scalable data solutions
+- **Microsoft Fabric** - Data processing and analytics workflows
 - **Snowflake, PostgreSQL** - Data warehousing and management
-- **Data Pipeline Automation** - ETL/ELT pipeline development
-- **SQL Optimization** - Performance tuning and query optimization
 
-### **Analytics & AI/ML**
+### **Data Engineering & ETL**
+- **Python** - Pandas, NumPy, scikit-learn, PySpark for data processing
+- **ETL/ELT Pipeline Development** - Building robust data pipelines
+- **SQL Optimization** - Performance tuning and advanced queries
+- **Data Pipeline Automation** - Streamlining data workflows
+
+### **AI/ML & Analytics**
 - **LangChain** - LLM orchestration and RAG pipelines
-- **NLP** - Natural Language Processing
-- **Predictive Modeling** - Machine learning model development
+- **NLP** - Natural Language Processing for text analysis
+- **Predictive Modeling** - Machine learning with TensorFlow/PyTorch
 - **A/B Testing (Bayesian)** - Statistical analysis and experimentation
 - **Marketing Mix Modeling** - Advanced marketing analytics
 - **Clustering** - Customer segmentation and pattern recognition
 
-### **Visualization & BI Tools**
-- **Power BI** - Business intelligence dashboards
+### **Visualization & Business Intelligence**
+- **Power BI** - Interactive dashboards and business intelligence
 - **Tableau** - Data visualization and analytics
 - **Excel (Advanced)** - Spreadsheet analysis and automation
-- **HTML/CSS** - Web development and customization
 
 ### **DevOps & Automation**
 - **Jenkins** - CI/CD pipeline automation
 - **GitHub** - Version control and collaboration
-- **SFTP** - Secure file transfer protocols
 - **Monday.com, JIRA** - Project management and tracking
-
-### **Programming Languages**
-- **Python** - Pandas, NumPy, scikit-learn, PySpark, TensorFlow, PyTorch
-- **SQL** - BigQuery, PostgreSQL, advanced queries and optimization
 
 ## 💼 Professional Experience
 
 ### **WeTechForU | Allen, TX** | *Aug 2024 – Present*
 **Data Analyst / Data Engineer**
 
-- Collaborated with stakeholders from **5+ health insurance providers** to gather requirements for analytics solutions
-- **Architected and trained CNN and Transformer-based models** in TensorFlow/PyTorch, improving predictive accuracy by **20%**
-- **Engineered scalable ETL pipelines** using PySpark on Microsoft Fabric to process **10TB+ of nested JSON data daily**
-- Created **Power BI dashboards** that reduced insurance claim cycle time by **25%** through better operational tracking
-- Partnered with product to launch **2 ML-powered features** that drove **$1M+ annual revenue impact**
+I'm currently working on some exciting projects that combine AI, data engineering, and healthcare analytics:
+
+- Collaborating with stakeholders from **5+ health insurance providers** to build analytics solutions
+- **Architecting and training CNN and Transformer-based models** that improved predictive accuracy by **20%**
+- **Building scalable ETL pipelines** using PySpark on Microsoft Fabric to process **10TB+ of nested JSON data daily**
+- Creating **Power BI dashboards** that reduced insurance claim cycle time by **25%**
+- Launching **2 ML-powered features** that drove **$1M+ annual revenue impact**
 
 ### **WeTechForU | Allen, TX** | *Apr 2021 – May 2023*
 **Data Operation Analyst**
 
-- Executed large-scale email marketing initiatives at **The Home Depot**, targeting **50M+ weekly recipients**
-- Served as a core member of the **CRM team**, focused on designing impactful, results-oriented email marketing campaigns
-- Gathered requirements from marketing stakeholders and executed personalized campaign management via **BigQuery**
-- Built **Python A/B testing framework**, boosting email conversion rates by **20%** and adding **$2.1M in revenue**
-- Designed interactive **Power BI dashboards** to monitor campaign performance, trends, and uncover optimization opportunities
+My journey started with large-scale email marketing and analytics:
 
-## 🚀 Project Experience
+- Executed email marketing initiatives at **The Home Depot**, reaching **50M+ weekly recipients**
+- Built a **Python A/B testing framework** that boosted email conversion rates by **20%** and added **$2.1M in revenue**
+- Designed **Power BI dashboards** for campaign performance monitoring and optimization
+- Managed CRM campaigns and personalized marketing strategies using BigQuery
+
+## 🚀 Cool Projects I've Built
 
 ### **AutoBrowse AI**
-- Built a **voice-controlled AI agent** using LiveKit that automates flight searches, browser tasks, and in-game decision-making
-- Implemented **full browser automation** via Browser-Use AI to interact with real-world apps (Google Flights) using LLM agents
+Ever wanted an AI assistant that could actually control your browser? I built a **voice-controlled AI agent** using LiveKit that automates flight searches, browser tasks, and even in-game decision-making. It uses Browser-Use AI to interact with real-world applications like Google Flights through LLM agents.
 
 ### **PromptPilot**
-- Integrated **ElevenLabs (TTS)** and **Silero/Whisper (STT)** to create a seamless natural-language interface for AI voice assistants
-- Experimented with **local inference** using LLaMA 3, and deployed **LangChain-based prompt flows** and **RAG pipelines** for AI tasks
+I integrated **ElevenLabs (TTS)** and **Silero/Whisper (STT)** to create a seamless natural-language interface for AI voice assistants. The project includes local inference using LLaMA 3 and LangChain-based prompt flows with RAG pipelines.
 
 ### **Natural Language to SQL Query Generator**
-- Developed an **NL2SQL system** using LangChain, Transformers, and PostgreSQL to enable natural language querying
-- Enhanced SQL generation accuracy through **few-shot learning**, **schema extraction**, and **robust query validation** techniques
+This project makes databases more accessible by converting natural language to SQL queries. I used LangChain, Transformers, and PostgreSQL, implementing few-shot learning and robust validation techniques to improve accuracy.
 
-## 🎯 Core Competencies
+## 🎯 What I'm Passionate About
+- **Data Engineering** - Building robust, scalable data infrastructure
+- **Machine Learning** - Developing and deploying AI models that solve real problems
+- **Business Intelligence** - Turning data into actionable insights
+- **Automation** - Streamlining processes to focus on what matters most
+- **Innovation** - Exploring cutting-edge AI and data technologies
 
-### **Technical Expertise**
-- ETL/ELT Pipeline Development | Machine Learning | Predictive Analytics
-- Data-Driven Decision Support | Email Marketing Analytics | Business Intelligence Dashboards
-- Natural Language to SQL Automation | Customer Segmentation and Targeting
-- Cloud Data Integration & Governance | Data Pipeline Design & Implementation
-- AI & ML Model Development | Advanced SQL | Data Query Optimization
-
-### **Business & Analytics**
-- Campaign Performance Analysis | Dashboard Development | Data Visualization
-- Cross-Functional Collaboration | A/B Testing | Statistical Modelling
-- Analytical Thinking | Effective Communication | Project Management
-
-### **Professional Qualities**
-- Initiative & Proactiveness | Attention to Detail | Adaptability
-- Continuous Learning | Compliance (HIPAA, GDPR)
-
-## 📊 Key Achievements
+## 📊 Some Highlights of My Work
 - **20% improvement** in predictive model accuracy using CNN and Transformer models
-- **25% reduction** in insurance claim cycle time through Power BI dashboards
+- **25% reduction** in insurance claim cycle time through better dashboards
 - **$1M+ annual revenue impact** from ML-powered features
-- **20% boost** in email conversion rates through A/B testing framework
-- **$2.1M additional revenue** from optimized email marketing campaigns
+- **20% boost** in email conversion rates through A/B testing
+- **$2.1M additional revenue** from optimized marketing campaigns
 - **10TB+ daily data processing** using scalable ETL pipelines
 
 ## 🌟 What I'm Looking For
-- **Data Engineering Opportunities** - Building scalable data pipelines and infrastructure
-- **AI/ML Projects** - Developing and deploying machine learning models
-- **Analytics Leadership** - Driving data-driven decision making in organizations
-- **Innovation** - Working on cutting-edge AI and data technologies
-- **Growth** - Continuous learning and skill development opportunities
+- **Exciting Data Engineering Projects** - Building pipelines that scale
+- **AI/ML Opportunities** - Developing models that make a difference
+- **Analytics Leadership** - Driving data-driven decision making
+- **Innovation** - Working on cutting-edge technologies
+- **Growth** - Learning new skills and approaches
 
-## 📫 Get In Touch
+## 📫 Let's Connect!
 - **Email**: vaghasiyajagrut380@gmail.com
 - **GitHub**: [@jagrut70](https://github.com/jagrut70)
 - **LinkedIn**: [Jagrut Vaghasiya](https://linkedin.com/in/jagrutvaghasiya)
 
-## 🎉 Fun Facts
-- 🎯 Passionate about **AI/ML** and its real-world applications
-- 📊 Love turning **complex data** into **actionable insights**
+## 🎉 Fun Facts About Me
+- 🎯 I'm obsessed with **AI/ML** and finding new ways to apply it
+- 📊 I love the challenge of turning **complex data** into **clear insights**
 - 🚀 Always exploring **emerging technologies** and **innovative solutions**
-- 🌍 Committed to **data-driven decision making** and **business impact**
+- 🌍 Committed to **data-driven decision making** that creates real business impact
+- ☕ Coffee enthusiast (essential for late-night data processing sessions!)
 
 ---
 
 *"Data is the new oil, but AI is the refinery that turns it into gold."* 🚀
 
-**Let's build the future with data and AI together!** Feel free to reach out for collaborations, opportunities, or just to discuss the latest in data science and AI. 💡
+**Let's build something amazing together!** Whether you want to collaborate on a project, discuss the latest in data science and AI, or just say hello, I'd love to connect. Let's turn data into insights and insights into action! 💡
