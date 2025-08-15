@@ -9,7 +9,7 @@ I believe in the power of **AI-driven analytics** to solve real-world problems a
 I specialize in **automating complex workflows**, **building predictive models**, and **developing scalable data solutions** that help organizations make better decisions. My approach combines technical expertise with creative problem-solving to deliver exceptional results that bridge the gap between data and business value.
 
 ## 🎓 My Journey
-- **Currently pursuing** Master of Science in Information Technology and Management at **The University of Texas at Dallas** (GPA: 3.42) - graduating May 2025
+- **Completed** Master of Science in Information Technology and Management at **The University of Texas at Dallas** (GPA: 3.42) - graduating May 2025
 - **Completed** Bachelor of Engineering in Computer Engineering from **Gujarat Technological University, India** (GPA: 3.56)
 
 ## 🛠️ Skills & Technologies
@@ -45,23 +45,19 @@ I specialize in **automating complex workflows**, **building predictive models**
 
 ## 💼 Professional Experience
 
-### **WeTechForU | Allen, TX** | *Aug 2024 – Present*
 **Data Analyst / Data Engineer**
 
 I'm currently working on some exciting projects that combine AI, data engineering, and healthcare analytics:
 
-- Collaborating with stakeholders from **5+ health insurance providers** to build analytics solutions
 - **Architecting and training CNN and Transformer-based models** that improved predictive accuracy by **20%**
 - **Building scalable ETL pipelines** using PySpark on Microsoft Fabric to process **10TB+ of nested JSON data daily**
 - Creating **Power BI dashboards** that reduced insurance claim cycle time by **25%**
 - Launching **2 ML-powered features** that drove **$1M+ annual revenue impact**
 
-### **WeTechForU | Allen, TX** | *Apr 2021 – May 2023*
 **Data Operation Analyst**
 
 My journey started with large-scale email marketing and analytics:
 
-- Executed email marketing initiatives at **The Home Depot**, reaching **50M+ weekly recipients**
 - Built a **Python A/B testing framework** that boosted email conversion rates by **20%** and added **$2.1M in revenue**
 - Designed **Power BI dashboards** for campaign performance monitoring and optimization
 - Managed CRM campaigns and personalized marketing strategies using BigQuery
